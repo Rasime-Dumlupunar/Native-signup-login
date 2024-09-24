@@ -22,3 +22,6 @@ Bu projeyi oluşturmak için aşağıdaki kütüphaneler ve teknolojiler kullan�
 - **react-native-reanimated**: Performanslı ve akıcı animasyonlar için kullanılır.
 - **react-native-safe-area-context**: Güvenli alanlar oluşturmak için kullanılır.
 - **react-native-screens**: Ekran geçişlerini optimize eder.
+
+
+![](https://github.com/Rasime-Dumlupunar/Native-signup-login/blob/main/loginSignup.gif)
